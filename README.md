@@ -291,4 +291,3 @@ python 3D-Dungeon-Escape.py
 **Enjoy exploring the dungeons!** 🗡️🛡️
 
 *Created with ❤️ for CSE423 - Computer Graphics Course*
-```
